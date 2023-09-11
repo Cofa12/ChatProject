@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #313866;
+}
+
+.container{
+    width: 700px;
+    height: 600px;
+    background-color: #DDD;
+    margin: auto;
+    position: relative;
+    top: 60px;
+}
+
+.friends{
+
+}

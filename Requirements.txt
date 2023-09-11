@@ -1,0 +1,3 @@
+1 - apply CSRF
+2 - Apply sanitazitions and Validations
+3 - see password [not completed]
